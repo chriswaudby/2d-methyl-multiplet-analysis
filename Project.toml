@@ -1,0 +1,7 @@
+[deps]
+ColorSchemes = "35d6a980-a343-548e-a6ea-1d62b119f2f4"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+LsqFit = "2fda8390-95c7-5789-9bda-21331edee243"
+Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
+NMRTools = "c2839fe3-f1de-42fc-897f-c1b0e8db4db6"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
